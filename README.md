@@ -17,7 +17,7 @@ To see the result, Open http://localhost:3000 with your browser.
 You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
 
 # App Link 
-[Store It](store-it-storage-application.vercel.app)
+[Store It](https://store-it-storage-application-nwt1wosqs.vercel.app/sign-in)
 
 # Screenshots
 # 1. Sign In Page
